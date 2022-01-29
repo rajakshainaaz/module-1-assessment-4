@@ -1,0 +1,43 @@
+html {
+    background-color: rgb(173, 126, 218);
+    text-align: center;
+}
+
+h1 {
+    color:darkred;
+    font-family:cursive;
+    font-size: xx-large;
+}
+
+p {
+    color:black;
+}
+
+table{
+    background-color: pink;
+    font-family:'Times New Roman', Times, serif;
+    border-collapse: collapse;
+    border-width:2px;
+    border-style: solid;
+}
+
+table.center{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+th {
+    background-color: darkgoldenrod;
+    text-align: center;
+}
+
+td {
+    color: black;
+    text-align: center;
+    padding: 1px 5px 1px 5px;
+}
+/* centers text in table
+body {
+    text-align: center;
+}
+*/
